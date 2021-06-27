@@ -1,0 +1,2 @@
+
+We all spend time looking at stores online. Sometimes we look for something on many websites searching for the best price. It takes time and maybe convinces us to stop looking for the thing we want just because it takes much time. To make it easier, the program would arrange all prices of all stores nearby from cheap to expensive. The program would be called "PriceForYou".
